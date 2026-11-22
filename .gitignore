@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+runs/
+*.toml
+*.fos
+*.f4se
+*.mp4
+*.mkv
+*.zip
